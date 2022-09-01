@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Zhejiang University, 2017
+* M.S. in Statistics, Renmin University, 2019
+* Ph.D in Statistics, Texas A\&M University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Research Assistant
+  * Texas A\&M University
+  * Duties included: Spline estimation of functional principal components
+  * Supervisor: Jianhua Huang 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: Research Assistant
+  * Texas A\&M University
+  * Duties included: Batch effect correction
+  * Supervisor: Xianyang Zhang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language: Native in Chinese, Fluent in English
+* Computer Languages
+  * R
+  * Python
+  * Latex
+* Tools: TensorFlow, PyTorch
 
 Publications
 ======
