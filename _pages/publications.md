@@ -17,9 +17,9 @@ author_profile: true
 
 ## Preprints
 ---
-- [Batch Effect Correction with Re-measured Samples in Completely Confounded Case-control Studies]() **Hanxuan Ye**, Xianyang Zhang, Jun Chen, 2022. 
+- [Batch Effect Correction with Re-measured Samples in Completely Confounded Case-control Studies]() **Hanxuan Ye**, Xianyang Zhang, Jun Chen, 2023+. Under review at Nature Computational Science. 
 - [A Modern Theory for High-dimensional Cox Regression Models](https://arxiv.org/pdf/2204.01161.pdf), Xianyang Zhang, Huijuan Zhou, **Hanxuan Ye**, 2022. Submitted to The Annals of Statistics.
-- [A Unified Analysis of Multi-task Functional Linear Regression Models with Manifold Constraint and Composite Quadratic Penalty](https://arxiv.org/abs/2211.04874), Shiyuan He, **Hanxuan Ye**, Kejun He, 2022. Submitted to The Journal of Machine Learning Research.
+- [A Unified Analysis of Multi-task Functional Linear Regression Models with Manifold Constraint and Composite Quadratic Penalty](https://arxiv.org/abs/2211.04874), Shiyuan He, **Hanxuan Ye**, Kejun He, 2022. Under invited revision for The Journal of Machine Learning Research.
 
 ## Publications
 ---

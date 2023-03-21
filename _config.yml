@@ -309,3 +309,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+  
+# Add if there (Fixing the "No GitHub API authentication could be found" when jekyll serve)
+github: [metadata] 
