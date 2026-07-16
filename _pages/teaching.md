@@ -1,11 +1,16 @@
 ---
-ayout: archive
-title: "Teaching Assistant"
+layout: archive
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-***
+## Teaching
+
+* Advanced Statistical Inference (upcoming)
+
+## Teaching Assistant
+
 * Stat 612: Linear Models (graduate level), Fall 2019
 * Stat 614: Probability for Statistician (graduate level), Fall 2019
 * Stat 624: Database & Comp Tools for Big Data, Spring 2020, Spring 2021, Fall 2021, Spring 2022

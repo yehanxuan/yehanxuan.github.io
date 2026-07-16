@@ -17,6 +17,7 @@ author_profile: true
 
 ## Preprints
 ---
+- [Bias-Aware External-Model-Assisted Inference in High-Dimensional Regression](https://https://arxiv.org/abs/2606.15602), Hongzhe Zhang, **Hanxuan Ye**, Hongzhe Li, 2026.
 - [Multicalibration Boosting: Theory, Convergence, and Transferability](https://arxiv.org/abs/2605.24364), **Hanxuan Ye**, Hongzhe Li, 2026.
 - [Differential Density Analysis in Single-Cell Genomics Using Specially Designed Exponential Families](https://arxiv.org/abs/2510.24948), **Hanxuan Ye**, Zachary Qian, Hongzhe Li, 2025. Submitted.
 - [A Modern Theory for High-dimensional Cox Regression Models](https://arxiv.org/pdf/2204.01161.pdf), Xianyang Zhang, Huijuan Zhou, **Hanxuan Ye**, 2022. Submitted to The Annals of Statistics.
